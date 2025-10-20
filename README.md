@@ -1,12 +1,11 @@
 # Hi there, I'm Abdullah Gedik! 👋
 
 ## About Me
-I'm a passionate Game Developer focused on Gameplay Programming, skilled in Unity and C#. I have a strong interest in coding, physics-based mechanics, and game design. I enjoy building engaging game experiences and optimizing performance for smooth gameplay.
+I am a Computer Engineering graduate from Ankara University with a strong passion for game development, specializing in Gameplay Programming. I’m currently focused on both 2D and 3D game development using Unity. With a keen interest in coding and video games.
 
 ## Skills
 - **Programming Languages**: C#, C++, C, Python
 - **Game Development**: Unity, Unreal Engine(Basic)
-- **Tools**: Git, Trello, VS Code, Blender(Basic)
 
 ## Projects
 Here are some of the personal projects and prototypes I've worked on:
@@ -14,9 +13,6 @@ Here are some of the personal projects and prototypes I've worked on:
 - [**Tile Shifter**](https://github.com/Yigit-khan/gamejam): A challenging platformer game with fun mechanics.
 - [**Bounce To Hoop**](https://github.com/abdullahgedik/trijam-game): Basketball themed platformer game.
 - [**Castle Escape**](https://github.com/abdullahgedik/Funrado-Task-Project): Mobile hybridcasual game.
-
-## GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahgedik&show_icons=true&theme=radical)
 
 ## Contact Me
 - **Email**: [abdullahgedik9696@gmail.com](mailto:abdullahgedik9696@gmail.com)
