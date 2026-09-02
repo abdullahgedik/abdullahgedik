@@ -18,6 +18,6 @@ Here are some of the personal projects and prototypes I've worked on:
 ## Contact Me
 - **Email**: [abdullahgedik9696@gmail.com](mailto:abdullahgedik9696@gmail.com)
 - **LinkedIn**: [linkedin.com/in/abdullahgedik](https://www.linkedin.com/in/abdullahgedik/)
-- **Twitter**: [@radexawaken](https://x.com/radexawaken)
+- **Twitter**: [@radenial09](https://x.com/radenial09)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
